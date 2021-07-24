@@ -28,3 +28,4 @@ document.querySelector(".saveBtn").addEventListener("click", function() {
 
 document.querySelector(".description").value = localStorage.getItem("event");
 
+// make a for loop
