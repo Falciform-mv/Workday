@@ -7,14 +7,7 @@ var hourCheck = moment().hour();
 
 // const currentHour = 13;
 
-// const shadeDiv = function(h) {
-//     const classDynamic = `.${h}`
-//     const timeNow = document.querySelector(classDynamic)
-//     $(`.${h}`).addClass("present");
-//     console.log(classDynamic);
-//     console.log(timeNow);
 
-// }
 
 
 
